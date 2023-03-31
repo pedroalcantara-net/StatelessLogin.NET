@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "91STE4uDrKC9yTVD3946Ai8UMe91xpvCittOoWMYaXT5SENnersXlMT+7WtUcjRc82OXOyh1x+2mhB9oP6lT2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\StatelessLogin\\StatelessLogin.NET\\StatelessLoginServer\\StatelessLogin\\StatelessLogin\\StatelessLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Pedro.NTM019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
